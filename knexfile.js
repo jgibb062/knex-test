@@ -1,5 +1,7 @@
 // Update with your config settings.
+// require('dotenv').config()
 
+// const connectionString = process.env.DB_CONNECTION_STRING;
 /**
  * @type { Object.<string, import("knex").Knex.Config> }
  */
